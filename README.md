@@ -1,1 +1,1 @@
-# DiGi  https://maratfront.github.io/DiGi/
+# DiGi  https:// AlievMarat.github.io/DiGi/
